@@ -1,0 +1,199 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.zagolovok {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    margin-bottom: 80px;
+
+}
+
+.text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    color: #86878b;
+    margin-top: 30px;
+
+    
+}
+
+.section {
+    width: 1400px;
+    margin: 107px auto;
+    text-align: center;
+}
+
+.krug1 {
+    margin: 0 auto 30px;
+    width: 70px;
+	height: 70px;
+    border: 3px solid orange;
+    border-radius: 50%;
+    
+    background-image: url('lampa.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.krug2 {
+    margin: 0 auto 30px;
+    width: 70px;
+	height: 70px;
+    border: 3px solid orange;
+    border-radius: 50%;
+    
+    background-image: url('klava.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.krug3 {
+    margin: 0 auto 30px;
+    width: 70px;
+	height: 70px;
+    border: 3px solid orange;
+    border-radius: 50%;
+    
+    background-image: url('molniya.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px;
+    
+}
+
+.cherta {
+    width: 64px;
+    height: 2px;
+    background-color: orange;
+    margin: 30px auto;
+    
+}
+
+.big__block {
+  width: 1110px;
+  margin: auto;
+    
+}
+
+.block {
+    display: inline-block;
+    width: 350px;
+} 
+
+.block1 {
+    display: inline-block;
+    width: 350px;
+    margin-top: 30px;
+}
+
+
+.section1 {
+    width: 100%;
+    background-image: url('gorod.png');
+    background-size: cover;
+    display: inline-block;
+   
+    
+}
+
+.zagolovok1 {
+    text-align: center;
+    color: white;
+    margin: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: xx-large;
+    
+}
+
+
+.button {
+    margin: 5% auto;
+    margin-top: 5%;
+    width: 135px;
+    height: 50px;
+    color: white;
+    border: 3px solid white;
+    background-color: transparent;
+    text-align: center;
+    
+}
+
+.button:hover {
+    cursor: pointer;
+    width: calc(200px/2);
+    background-color: red;
+
+}
+
+.cherta1 {
+    width: 54px;
+    height: 2px;
+    background-color:white;
+    margin:0 auto;
+}
+
+
+
+.zagolovok__head {
+    width: 30%;
+    margin: 0 auto;
+    color: white;
+}
+
+.text1 {
+    width: 800px;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    margin: 5% auto;
+    color: rgb(177, 177, 177);
+    
+    
+}
+
+.button1 {
+    text-align: center;
+    
+}
+
+.footer {
+    width: 100%;
+    background-color: black;
+}
+
+.seti {
+    margin: 0 auto;
+    width: 200px ;
+  
+
+    
+}
+
+.svg    {
+   margin: 0 auto;
+   padding: 30px;
+
+   
+}
+
+.copy {
+    text-align: center;
+    font-size: 12px;
+    color: rgb(177 ,177 ,177);
+    background-color: black;
+
+}
+
+.dark {
+    background-color: black;
+}
+
+.svg1 {
+    margin: 0px;
+    padding: 0 auto ;
+    display: block
+
+}
+
